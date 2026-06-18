@@ -8,9 +8,6 @@
   <img height="150" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"  />
 </div>
 
-<br>
-<br>
-
 ###
 
 <div align="center">
@@ -18,6 +15,8 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
+<br>
+<br>
 ###
 
 <h1 align="center">Olá! Sou o Adriel, seja bem-vindo ao meu repositório. 🥶</h1>
