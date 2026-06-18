@@ -8,7 +8,7 @@
   <img height="150" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"  />
 </div>
 
-<div></div>
+<br>
 
 ###
 
@@ -30,8 +30,8 @@
 <p align="left">Sou de Jaraguá do sul - SC<br><br>Atualmente estou fazendo:<br><br>- 🎓 Terceiro ano do ensino médio integrado com curso técnico de DS<br><br>- 💻 Faço aprendizagem na WEG realizando o curso de TI na turma MI80<br><br>- ⚡ Nos  meus tempos livres gosto muito de relachar indo a lugares calmos ou praticar esportes.</p>
 
 ###
-<div></div>
-<div></div>
+<br>
+<br>
 <h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 ###
